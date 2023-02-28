@@ -5,3 +5,5 @@ shampoo
 ice cream
 bobby pins
 spinach
+mushrooms
+celery
